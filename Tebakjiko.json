@@ -15,6 +15,31 @@
     "jawaban": "Gracia"
   }, 
   {
+    "soal": "Diam bukan berarti tak memedulikan mu", 
+    "clue": "G*t", 
+    "jawaban": "Gita"
+  }, 
+  {
+    "soal": "Peduli dan berbaik hati, siapakah dia?.", 
+    "clue": "Chr*st*", 
+    "jawaban": "Christy"
+  }, 
+  {
+    "soal": "Gadis koleris yang suka berimajinasi, terangi harimu dengan senyuman",
+    "clue": "Fr*ya", 
+    "jawaban": "Freya"
+  },
+  {
+    "soal": "Matahari yang indah yang akan selalu memberikan kehangatan setiap harinya.",
+    "clue": "F*ni", 
+    "jawaban": "Feni"
+  }, 
+  {
+    "soal": "Senyumku terekam jelas dalam ingatanmu seperti foto dengan sejuta warna.", 
+    "clue": "Gr*c*a", 
+    "jawaban": "Gracia"
+  }, 
+  {
     "soal": "Diam bukan berarti tak memperhatikanmmu.", 
     "clue": "G*t*",
     "jawaban": "Gita"
@@ -23,5 +48,5 @@
     "soal": "Peduli dan berbaik hati, siapakah dia?.", 
     "clue": "Chr*st*", 
     "jawaban": "Christy"
-  }
+  }, 
 ]
