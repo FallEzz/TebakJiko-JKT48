@@ -15,7 +15,7 @@
     "jawaban": "Gracia"
   }, 
   {
-    "soal": "Diam bukan berarti tak memedulikan mu", 
+    "soal": "Diam bukan berarti tak memperhatikanmmu.", 
     "clue": "G*t", 
     "jawaban": "Gita"
   }, 
@@ -25,28 +25,80 @@
     "jawaban": "Christy"
   }, 
   {
-    "soal": "Gadis koleris yang suka berimajinasi, terangi harimu dengan senyuman",
-    "clue": "Fr*ya", 
-    "jawaban": "Freya"
+    "soal": "Dengan keajaibanku, aku akan membuat kalian selalu tertawa.",
+    "clue": "*lla", 
+    "jawaban": "Olla"
   },
   {
-    "soal": "Matahari yang indah yang akan selalu memberikan kehangatan setiap harinya.",
-    "clue": "F*ni", 
-    "jawaban": "Feni"
+    "soal": "Bagai lembayung senja, dengan energi kegembiraanku, Aku akan menghangatkan suasana.",
+    "clue": "El*", 
+    "jawaban": "Eli"
   }, 
   {
-    "soal": "Senyumku terekam jelas dalam ingatanmu seperti foto dengan sejuta warna.", 
-    "clue": "Gr*c*a", 
-    "jawaban": "Gracia"
+    "soal": "Suka menari dan akan selalu berusaha untuk menjadi sumber energimu.", 
+    "clue": "J**si", 
+    "jawaban": "Jessi"
   }, 
   {
-    "soal": "Diam bukan berarti tak memperhatikanmmu.", 
-    "clue": "G*t*",
-    "jawaban": "Gita"
+    "soal": "Dengan kelincahanku, Aku akan menari setiap hari. Panggil Aku, Mu mu mu mu-the!", 
+    "clue": "Mu*he",
+    "jawaban": "Muthe"
   }, 
   {
-    "soal": "Peduli dan berbaik hati, siapakah dia?.", 
-    "clue": "Chr*st*", 
-    "jawaban": "Christy"
+    "soal": "Seperti teka-teki, kalian akan selalu penasaran denganku.", 
+    "clue": "On**l", 
+    "jawaban": "Oniel"
   }, 
+  
+  
+  {
+    "soal": "Seperti simfoni yang menenangkan hati.",
+    "clue": "F*ony", 
+    "jawaban": "Fiony"
+  },
+  {
+    "soal": "Ada yang mau ikut aku? Ayo ikut ke dunia Flora! Simsalabim, akan kubuat hatimu menjadi berbunga-bunga!",
+    "clue": "Fl*r*", 
+    "jawaban": "Flora"
+  }, 
+  {
+    "soal": "Terang seperti bulan, bersinar seperti bintang.", 
+    "clue": "L*lu", 
+    "jawaban": "Lulu"
+  }, 
+  {
+    "soal": "Bagai kucing yang kalem, tapi akan selalu memikat hati kamu.", 
+    "clue": "Ad*l", 
+    "jawaban": "Adel"
+  }, 
+  {
+    "soal": "Never miss a chance to be a star!", 
+    "clue": "K*tr*na", 
+    "jawaban": "Katrina"
+  }, 
+  {
+    "soal": "Tak banyak bicara, bercerita melalui tulisan.",
+    "clue": "In*a*", 
+    "jawaban": "Indah"
+  },
+  {
+    "soal": "Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku, ya?",
+    "clue": "M*r*a", 
+    "jawaban": "Marsha"
+  }, 
+  {
+    "soal": "Aku akan membuat hatimu berdebar kencang seperti lagu dengan 1.000 BPM.", 
+    "clue": "Am*nd*", 
+    "jawaban": "Amanda"
+  }, 
+  {
+    "soal": "Si social butterfly yang energik dan periang!", 
+    "clue": "L**",
+    "jawaban": "Lia"
+  }, 
+  {
+    "soal": "Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu.", 
+    "clue": "Ell*", 
+    "jawaban": "Ella"
+  }
 ]
