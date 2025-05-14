@@ -49,8 +49,6 @@
     "clue": "On**l", 
     "jawaban": "Oniel"
   }, 
-  
-  
   {
     "soal": "Seperti simfoni yang menenangkan hati.",
     "clue": "F*ony", 
@@ -100,5 +98,105 @@
     "soal": "Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu.", 
     "clue": "Ell*", 
     "jawaban": "Ella"
+  }
+  {
+    "soal": "Si beruang madu penyuka madu.",
+    "clue": "C*lli*", 
+    "jawaban": "Callie"
+  },
+  {
+    "soal": "Senyuman dalam mataku menatap lurus kepadamu. Smiley eyes? Ind*r*!",
+    "clue": "In*ir*", 
+    "jawaban": "Indira"
+  }, 
+  {
+    "soal": "Seperti ombak laut yang tenang, tiba-tiba aku akan menyapumu dengan banyak cinta!.", 
+    "clue": "L*n", 
+    "jawaban": "Lyn"
+  }, 
+  {
+    "soal": "Kalau sakura itu kembang, Aku itu kembanggaanmu!.", 
+    "clue": "R*is*a", 
+    "jawaban": "Raisha"
+  }, 
+  {
+    "soal": "Manis seperti gulali, imut seperti kelinci. Cie cie cie, Gr*ic*!", 
+    "clue": "G*a*ie", 
+    "jawaban": "Gracie"
+  }, 
+  {
+    "soal": "Pandangan mataku akan menyinari hatimu bagaikan kunang-kunang di malam hari.",
+    "clue": "Gr*ss**", 
+    "jawaban": "Gressel"
+  },
+  {
+    "soal": "Jika hatimu sedang menangis, Aku akan datang sebagai pelangi",
+    "clue": "Al**", 
+    "jawaban": "Alya"
+  }, 
+  {
+    "soal": "Si mungil hadir semanis mangga.", 
+    "clue": "An**d*a", 
+    "jawaban": "Anindya"
+  }, 
+  {
+    "soal": "Tring! Si peri cantik jelita, itulah Aku.", 
+    "clue": "C*th*",
+    "jawaban": "Cathy"
+  }, 
+  {
+    "soal": "Semanis permen kapas dan seindah bunga lavender.", 
+    "clue": "Ell*n*", 
+    "jawaban": "Elline"
+  },     
+  {
+    "soal": "As bright as a shooting star in the starry night sky!",
+    "clue": "C***sea", 
+    "jawaban": "Chelsea"
+  },
+  {
+    "soal": "Semangatku terus menerus meluap. POP! POP! Aku Cyn*** yang selalu semangat!",
+    "clue": "Cyn***", 
+    "jawaban": "Cynthia"
+  }, 
+  {
+    "soal": "Tok-tok! Si penari yang akan menarikmu ke duniaku!", 
+    "clue": "D****la", 
+    "jawaban": "Danella"
+  }, 
+  {
+    "soal": "Seperti bunga da***, aku akan memancarkan kesegaran dan kebahagiaan!", 
+    "clue": "Da***", 
+    "jawaban": "Daishy"
+  }, 
+  {
+    "soal": "Bonjour! Periang dan pencair suasana, itulah aku.", 
+    "clue": "G**d*s", 
+    "jawaban": "Gendis"
+  }, 
+  {
+    "soal": "Always your number one, till infinity and beyond. Hello everyone, it's Mic***!",
+    "clue": "Mic***", 
+    "jawaban": "Mic***"
+  },
+  {
+    "soal": "Seperti bunga yang mekar, aku akan membuat kamu, kamu, dan kamu terbayang-bayang.",
+    "clue": "A***lie", 
+    "jawaban": "Arallie"
+  }, 
+  {
+    "soal": "Nyemangatin dan ngangenin, siapa yang kamu pikirin? Pyong pyong, Aku De****!", 
+    "clue": "Del****", 
+    "jawaban": "Delynn"
+  }, 
+  {
+    "soal": "Dengan kekuatan bulan, aku akan menyihirmu dengan pesonaku.", 
+    "clue": "L*n*",
+    "jawaban": "Lana"
+  }, 
+  {
+    "soal": "Hadir dengan seribu kejutan, Checkmate! Siap memenangkan hatimu.", 
+    "clue": "Er***", 
+    "jawaban": "Erine"
   }
 ]
